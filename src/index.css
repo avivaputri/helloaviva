@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./assets/img/afternoon.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#typography{
+  margin-top:8%;
+  color: white;
+  font-family: 'Helvetica';
+}
+
+#typography1{  
+  margin-top: 6%;
+  color: white;
+  font-family: 'Helvetica';
+}
+
+#typography2{
+  color: white;
+  font-family: 'Helvetica';
+}
+
+#footer {
+  clear: both;
+  position: relative;
+  margin-top: 10%;
+}
+
+#footer-text {
+  font-family: 'Helvetica';
+  color: white;
+  font-size: 14pt;
+}
+
+#socmed {
+  text-decoration: none;
+  color: white;
+}
+
