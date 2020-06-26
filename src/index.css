@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("./assets/img/night.jpg");
+  background-image: url("./assets/img/afternoon-turkey.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -18,18 +18,21 @@ code {
 }
 
 #typography{
+  font-size: 7em;
   margin-top:8%;
   color: white;
   font-family: 'Helvetica';
 }
 
 #typography1{  
-  margin-top: 6%;
+  font-size: 4em;
+  margin-top: 5%;
   color: white;
   font-family: 'Helvetica';
 }
 
 #typography2{
+  font-size: 4em;
   color: white;
   font-family: 'Helvetica';
 }
@@ -37,7 +40,7 @@ code {
 #footer {
   clear: both;
   position: relative;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 
 #footer-text {
@@ -49,5 +52,27 @@ code {
 #socmed {
   text-decoration: none;
   color: white;
+}
+
+@media only screen and (max-width: 736px) {
+  #typography{
+    font-size: 6em;
+    margin-top:8%;
+    color: white;
+    font-family: 'Helvetica';
+  }
+  
+  #typography1{  
+    font-size: 3em;
+    margin-top: 6%;
+    color: white;
+    font-family: 'Helvetica';
+  }
+  
+  #typography2{
+    font-size: 3em;
+    color: white;
+    font-family: 'Helvetica';
+  }
 }
 

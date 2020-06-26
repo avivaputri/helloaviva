@@ -135,9 +135,9 @@ class Home extends React.Component{
             </div>            
             <div className="content">
                 <MDBContainer fluid>
-                  <MDBTypography tag="h2" variant="display-1" className="text-center" id="typography">{this.state.time}</MDBTypography>
-                  <MDBTypography tag="h2" variant="display-3" className="text-center" id="typography1">{this.state.curHr}, Aviva Putri Humaira</MDBTypography>
-                  <MDBTypography tag="h3" variant="display-4" className="text-center" id="typography2">{this.state.tgl}</MDBTypography>                  
+                  <MDBTypography className="text-center" id="typography">{this.state.time}</MDBTypography>
+                  <MDBTypography className="text-center" id="typography1">{this.state.curHr}, Aviva Putri Humaira</MDBTypography>
+                  <MDBTypography className="text-center" id="typography2">{this.state.tgl}</MDBTypography>                  
                 </MDBContainer>
             </div>
             <div>
