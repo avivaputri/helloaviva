@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/helloaviva/static/css/main.083e90c5.chunk.css",
+    "main.css": "/helloaviva/static/css/main.990ecf25.chunk.css",
     "main.js": "/helloaviva/static/js/main.ff527a8c.chunk.js",
     "main.js.map": "/helloaviva/static/js/main.ff527a8c.chunk.js.map",
     "runtime-main.js": "/helloaviva/static/js/runtime-main.f0579090.js",
@@ -9,12 +9,12 @@
     "static/js/2.67fc3511.chunk.js": "/helloaviva/static/js/2.67fc3511.chunk.js",
     "static/js/2.67fc3511.chunk.js.map": "/helloaviva/static/js/2.67fc3511.chunk.js.map",
     "index.html": "/helloaviva/index.html",
-    "precache-manifest.2f5877d3d1e77f1f36b73ec70cb36828.js": "/helloaviva/precache-manifest.2f5877d3d1e77f1f36b73ec70cb36828.js",
+    "precache-manifest.00eb7046c2cea44bf041113b67a124ec.js": "/helloaviva/precache-manifest.00eb7046c2cea44bf041113b67a124ec.js",
     "service-worker.js": "/helloaviva/service-worker.js",
     "static/css/2.d41e5400.chunk.css.map": "/helloaviva/static/css/2.d41e5400.chunk.css.map",
-    "static/css/main.083e90c5.chunk.css.map": "/helloaviva/static/css/main.083e90c5.chunk.css.map",
+    "static/css/main.990ecf25.chunk.css.map": "/helloaviva/static/css/main.990ecf25.chunk.css.map",
     "static/js/2.67fc3511.chunk.js.LICENSE.txt": "/helloaviva/static/js/2.67fc3511.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/helloaviva/static/media/afternoon-turkey.d06dc4b3.jpg",
+    "static/media/index.css": "/helloaviva/static/media/1.48482c66.jpg",
     "static/media/mdb.css": "/helloaviva/static/media/arrow_right.8ef6a08c.svg",
     "static/media/bg.jpg": "/helloaviva/static/media/bg.53cefd5f.jpg",
     "static/media/font-awesome.min.css": "/helloaviva/static/media/fontawesome-webfont.fee66e71.woff",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.f0579090.js",
     "static/css/2.d41e5400.chunk.css",
     "static/js/2.67fc3511.chunk.js",
-    "static/css/main.083e90c5.chunk.css",
+    "static/css/main.990ecf25.chunk.css",
     "static/js/main.ff527a8c.chunk.js"
   ]
 }
