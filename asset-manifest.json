@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/helloaviva/static/css/main.083e90c5.chunk.css",
-    "main.js": "/helloaviva/static/js/main.95e24344.chunk.js",
-    "main.js.map": "/helloaviva/static/js/main.95e24344.chunk.js.map",
+    "main.js": "/helloaviva/static/js/main.ff527a8c.chunk.js",
+    "main.js.map": "/helloaviva/static/js/main.ff527a8c.chunk.js.map",
     "runtime-main.js": "/helloaviva/static/js/runtime-main.f0579090.js",
     "runtime-main.js.map": "/helloaviva/static/js/runtime-main.f0579090.js.map",
     "static/css/2.d41e5400.chunk.css": "/helloaviva/static/css/2.d41e5400.chunk.css",
     "static/js/2.67fc3511.chunk.js": "/helloaviva/static/js/2.67fc3511.chunk.js",
     "static/js/2.67fc3511.chunk.js.map": "/helloaviva/static/js/2.67fc3511.chunk.js.map",
     "index.html": "/helloaviva/index.html",
-    "precache-manifest.7e3f7633f740c25cc088a477e26f4c5f.js": "/helloaviva/precache-manifest.7e3f7633f740c25cc088a477e26f4c5f.js",
+    "precache-manifest.2f5877d3d1e77f1f36b73ec70cb36828.js": "/helloaviva/precache-manifest.2f5877d3d1e77f1f36b73ec70cb36828.js",
     "service-worker.js": "/helloaviva/service-worker.js",
     "static/css/2.d41e5400.chunk.css.map": "/helloaviva/static/css/2.d41e5400.chunk.css.map",
     "static/css/main.083e90c5.chunk.css.map": "/helloaviva/static/css/main.083e90c5.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.d41e5400.chunk.css",
     "static/js/2.67fc3511.chunk.js",
     "static/css/main.083e90c5.chunk.css",
-    "static/js/main.95e24344.chunk.js"
+    "static/js/main.ff527a8c.chunk.js"
   ]
 }
