@@ -19,13 +19,17 @@ class Home extends React.Component{
             time: '',
             tgl: '',
             curHr: '',
+            count: '',
             isOpen: false
         };
         
     }
 
     componentDidMount(){
-        this.getData();
+        this.getData();        
+        this.count = setInterval(
+            () => this.countdown(),
+            1000);
         this.timerID = setInterval(
             () => this.time(),
              1000);
@@ -61,7 +65,21 @@ class Home extends React.Component{
         this.setState({ time: t_str })
     };
 
+    countdown = () =>{
+      var countDownDate = new Date("Jul 14, 2020 00:00:00").getTime();
+
+      var now = new Date().getTime();
+      var t = countDownDate - now;
+      var days = Math.floor(t / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((t%(1000 * 60 * 60 * 24))/(1000 * 60 * 60));
+      var minutes = Math.floor((t % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((t % (1000 * 60)) / 1000);
+
+      this.setState({ count: days + "d " + hours + "h " + minutes + "m " + seconds + "s "})     
+    }
+
     curHr = () =>{
+      var array = ['./assets']
       var date = new Date()
       var curHr = date.getHours()
 
@@ -103,13 +121,13 @@ class Home extends React.Component{
     };
 
     render(){
-        console.log(this.state.data.author);
+        
         return(
           <>
             <div>
                 <MDBNavbar color="elegant-color-dark" fixed="top" dark expand="md" scrolling transparent>
                   <MDBNavbarBrand>
-                    <strong className="white-text text-center">Muhammad Syahril</strong>
+                    <strong className="white-text text-center">{this.state.count} left for your Birthday</strong>                    
                   </MDBNavbarBrand>
                   <MDBNavbarToggler onClick={this.toggleCollapse} />
                   <MDBCollapse id="navbarCollapse3" isOpen={this.state.isOpen} navbar>
