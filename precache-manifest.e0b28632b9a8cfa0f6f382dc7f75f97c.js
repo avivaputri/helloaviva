@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32b140b97ac535507ed4293efd1e294c",
+    "revision": "34e075742feec4fb7eff43ab6f9a936d",
     "url": "/helloaviva/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helloaviva/static/css/2.d41e5400.chunk.css"
   },
   {
-    "revision": "57396f1b436e7ecc93b6",
-    "url": "/helloaviva/static/css/main.990ecf25.chunk.css"
+    "revision": "58c9f0669ef980372967",
+    "url": "/helloaviva/static/css/main.83f51105.chunk.css"
   },
   {
     "revision": "2497c4e5b4907fd24e7c",
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helloaviva/static/js/2.67fc3511.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "57396f1b436e7ecc93b6",
-    "url": "/helloaviva/static/js/main.ff527a8c.chunk.js"
+    "revision": "58c9f0669ef980372967",
+    "url": "/helloaviva/static/js/main.68191ee1.chunk.js"
   },
   {
     "revision": "885f58140d558cf2854e",
     "url": "/helloaviva/static/js/runtime-main.f0579090.js"
   },
   {
-    "revision": "48482c6659e50e32c2d6218ecdbed642",
-    "url": "/helloaviva/static/media/1.48482c66.jpg"
+    "revision": "36e0fa231cef27456e6e6bb01e2ee8cc",
+    "url": "/helloaviva/static/media/afternoon.36e0fa23.jpg"
   },
   {
     "revision": "11911410dca2de148f30954eb2fd5eab",
