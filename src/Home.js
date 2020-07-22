@@ -127,7 +127,7 @@ class Home extends React.Component{
             <div>
                 <MDBNavbar color="elegant-color-dark" fixed="top" dark expand="md" scrolling transparent>
                   <MDBNavbarBrand>
-                    <strong className="white-text text-center">{this.state.count} left for your Birthday</strong>                    
+                    <strong className="white-text text-center">Muhammad Syahril</strong>                    
                   </MDBNavbarBrand>
                   <MDBNavbarToggler onClick={this.toggleCollapse} />
                   <MDBCollapse id="navbarCollapse3" isOpen={this.state.isOpen} navbar>
@@ -154,7 +154,7 @@ class Home extends React.Component{
             <div className="content">
                 <MDBContainer fluid>
                   <MDBTypography className="text-center" id="typography">{this.state.time}</MDBTypography>
-                  <MDBTypography className="text-center" id="typography1">{this.state.curHr}, Aviva Putri Humaira</MDBTypography>
+                  <MDBTypography className="text-center" id="typography1">Happy Birthday, Aviva Putri Humaira</MDBTypography>
                   <MDBTypography className="text-center" id="typography2">{this.state.tgl}</MDBTypography>                  
                 </MDBContainer>
             </div>
