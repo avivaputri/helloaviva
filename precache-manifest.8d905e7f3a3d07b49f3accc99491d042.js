@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34e075742feec4fb7eff43ab6f9a936d",
+    "revision": "5157e30313e41b0cdbcc30c9957360a0",
     "url": "/helloaviva/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helloaviva/static/css/2.d41e5400.chunk.css"
   },
   {
-    "revision": "58c9f0669ef980372967",
+    "revision": "edb6afb263d21c7a20d9",
     "url": "/helloaviva/static/css/main.83f51105.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/helloaviva/static/js/2.67fc3511.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "58c9f0669ef980372967",
-    "url": "/helloaviva/static/js/main.68191ee1.chunk.js"
+    "revision": "edb6afb263d21c7a20d9",
+    "url": "/helloaviva/static/js/main.817affdb.chunk.js"
   },
   {
     "revision": "885f58140d558cf2854e",
